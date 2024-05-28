@@ -1,0 +1,18 @@
+{
+  "name": "com.alelievr.hdrp-mobile",
+  "description": "Allows HDRP to build and run on mobile.",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "displayName": "HDRP Mobile",
+  "dependencies": {
+    "com.unity.render-pipelines.core": "14.0.0",
+    "com.unity.render-pipelines.high-definition": "14.0.0",
+    "com.unity.nuget.mono-cecil": "1.11.4"
+  },
+  "keywords": [
+    "hdrp",
+    "mobile",
+    "rendering"
+  ],
+  "samples": []
+}
