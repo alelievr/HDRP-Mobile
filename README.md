@@ -1,6 +1,6 @@
 # HDRP Mobile
 
-This project is a Unity package that allows HDRP to build on unsupported targets like Android and IOS
+This project is a Unity package that allows HDRP to build on unsupported targets like Android, IOS, and Switch.
 
 ## Disclamer
 
