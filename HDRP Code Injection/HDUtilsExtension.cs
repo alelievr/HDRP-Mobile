@@ -47,6 +47,7 @@ namespace UnityEngine.Rendering.HighDefinition
                 buildTarget == UnityEditor.BuildTarget.iOS ||
                 buildTarget == UnityEditor.BuildTarget.Switch ||
                 buildTarget == UnityEditor.BuildTarget.Android ||
+                buildTarget == UnityEditor.BuildTarget.VisionOS ||
                 buildTarget == UnityEditor.BuildTarget.LinuxHeadlessSimulation);
         }
 #endif
